@@ -4,7 +4,7 @@ const input = document.querySelector("input");
 const display = document.querySelector(".display");
 
 function printInput(userInput) {
-  display.innerHTML = "wew";
+  display.innerHTML = "";
   display.innerHTML = userInput;
 }
 
