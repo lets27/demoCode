@@ -5,6 +5,8 @@ const display = document.querySelector(".display");
 
 function printInput(userInput) {
   display.innerHTML = "";
+  const p = "";
+  console.log(p);
   display.innerHTML = userInput;
 }
 
